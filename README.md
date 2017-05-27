@@ -54,8 +54,8 @@ Released under the [MIT License](#LICENSE) by Greyfox, Inc.
 [docker-shield]: https://img.shields.io/docker/build/greyfoxit/alpine-glibc.svg
 [docker-link]: https://hub.docker.com/r/greyfoxit/alpine-glibc/
 
-[layers-shield]: https://images.microbadger.com/badges/image/greyfoxit/alpine-glibc.svg
+[layers-shield]: https://images.microbadger.com/badges/image/greyfoxit/alpine-glibc:alpine3.5_glibc2.25.svg
 [layers-link]: https://microbadger.com/images/greyfoxit/alpine-glibc
 
-[version-shield]: https://images.microbadger.com/badges/version/greyfoxit/alpine-glibc.svg
+[version-shield]: https://images.microbadger.com/badges/version/greyfoxit/alpine-glibc:alpine3.5_glibc2.25.svg
 [version-link]: https://microbadger.com/images/greyfoxit/alpine-glibc
