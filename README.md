@@ -40,7 +40,7 @@ $ docker run --rm -it greyfoxit/alpine-glibc
 
 ## Credits
 
-`glibc` compatibility layer [package](https://github.com/sgerrand/alpine-pkg-glibc) prepared for Alpine Linux by [@sgerrand](https://github.com/sgerrand)
+[@andyshinn](https://github.com/andyshinn) for `glibc` compatibility layer [package](https://github.com/sgerrand/alpine-pkg-glibc) prepared for Alpine Linux
 
 ## Support
 
