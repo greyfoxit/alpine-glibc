@@ -28,9 +28,8 @@ $ docker pull greyfoxit/alpine-glibc
 ### as local build
 
 ```sh
-$ git clone https://github.com/greyfoxit/alpine-glibc.git
-$ cd docker-alpine-glibc
-$ docker build -t greyfoxit/alpine-glibc .
+$ git clone https://github.com/greyfoxit/alpine-glibc.git && cd alpine-glibc 
+$ docker build --no-cache -t greyfoxit/alpine-glibc .
 ```
 
 ### as running container
