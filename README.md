@@ -1,6 +1,6 @@
 # Alpine GNU C / Docker 
 
-[![Docker Status][docker-shield]][docker-link] [![Docker Pulls][pulls-shield]][pulls-link] [![Layers][layers-shield]][layers-link]
+[![Docker Status][docker-shield]][docker-link] [![Docker Pulls][pulls-shield]][pulls-link] [![Layers][layers-shield]][layers-link] [![Version][version-shield]][version-link]
 
 A minimal [Alpine Linux](https://hub.docker.com/r/_/alpine/) based [Docker](https://www.docker.com/) image with [GNU C library](https://www.gnu.org/software/libc/) (glibc)
 
@@ -59,3 +59,6 @@ Released under the [MIT License](#LICENSE) by Greyfox, Inc.
 
 [layers-shield]: https://images.microbadger.com/badges/image/greyfoxit/alpine-glibc.svg
 [layers-link]: https://microbadger.com/images/greyfoxit/alpine-glibc
+
+[version-shield]: https://images.microbadger.com/badges/version/greyfoxit/alpine-glibc.svg
+[version-link]: https://microbadger.com/images/greyfoxit/alpine-glibc
