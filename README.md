@@ -7,7 +7,7 @@ A minimal [Alpine Linux](https://hub.docker.com/r/_/alpine/) based [Docker](http
 ## Content &nbsp;/
 
 - Alpine Linux ( **v 3.6** )
-- GNU C ( **v 2.25** )
+- GNU C ( **v 2.26** )
 
 ## Use this &nbsp;>
 
